@@ -1,0 +1,7 @@
+{
+  "items": [
+    {"code": "A-101", "name": "Notebook", "quantity": 3},
+    {"code": "A-102", "name": "Pencil", "quantity": 12},
+    {"code": "A-103", "name": "Folder", "quantity": 5}
+  ]
+}

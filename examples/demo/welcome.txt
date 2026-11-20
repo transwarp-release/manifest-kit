@@ -1,0 +1,2 @@
+Manifest Kit demonstration dataset.
+All entries in this directory are fictional and supplied for testing.
